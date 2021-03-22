@@ -1,4 +1,6 @@
-# Note! This repo is disconnect, check the new repo
+# Note! This repo is discontinued
+Check the new repo,
+https://github.com/marcu123456/cli-clock-cpp
 
 # CLI-Clock
 Made by marcu
