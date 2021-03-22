@@ -1,3 +1,5 @@
+# Note! This repo is disconnect, check the new repo
+
 # CLI-Clock
 Made by marcu
 
